@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\bin\Debug\Gestor de Processos.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\bin\Debug\Gestor de Processos.exe.manifest
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\bin\Debug\Gestor de Processos.application
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\bin\Debug\Gestor de Processos.exe
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\bin\Debug\Gestor de Processos.pdb
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\obj\Debug\Gestor de Processos.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\obj\Debug\Gestor_de_Processos.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\obj\Debug\Gestor de Processos.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\obj\Debug\Gestor de Processos.exe.manifest
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\obj\Debug\Gestor de Processos.application
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\obj\Debug\Gestor de Processos.exe
+c:\users\hp\documents\visual studio 2013\Projects\Gestor de Processos\Gestor de Processos\obj\Debug\Gestor de Processos.pdb
